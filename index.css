@@ -1,0 +1,202 @@
+
+@media (max-width: 768px) {
+  body {
+    font-family: 'Chivo', sans-serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+  }
+
+  .Main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    color: #716966;
+  }
+
+  .logo img {
+    width: 31px;
+    height: 31px;
+  }
+
+  .heading h1 {
+    font-size: 24px;
+    margin: 0;
+    color: #716966;
+  }
+
+  .threedots img {
+    width: 27px;
+    height: 27px;
+  }
+
+  hr {
+    margin: 0;
+    border: none;
+    border-top: 1px solid #ebebeb;
+  }
+ 
+  .icons {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem 0.5rem;
+    background-color: #fff;
+    
+  }
+
+  .icons > div {
+    text-align: center;
+    font-size: 10px;
+    color: #716966;
+  }
+
+  .icons img {
+    max-width: 40%;
+    margin-bottom: 5px;
+  }
+
+  .bigYellowBox{
+    background-color: #FFFCF2;
+    border-radius: 8px;
+    
+    margin-bottom: 1rem;
+    margin-top: 0;
+    padding-top: 1rem;
+    padding-bottom: 1.8rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    display: flex;
+    justify-content: space-between;
+  }
+  .bigYellowBox3 {
+   background-color: #FFFCF2;
+    border-radius: 8px;
+    
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    padding-top: 1.8rem;
+    padding-bottom: 1rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .bigYellowBox2{
+    
+    border-radius: 8px;
+    
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+    padding-top: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    display: flex;
+    justify-content: space-between;
+
+
+  }
+
+  .rating {
+    width: 70%;
+  }
+
+  .rating h3 {
+    font-size: 16px;
+    margin: 0;
+    font-weight: bold;
+  }
+
+  .rating img {
+    width: 80px;
+    margin: 0.3rem 0;
+  }
+
+  .line p {
+    margin: 0.5rem 0;
+    font-size: 10px;
+    font-weight: 400;
+    width: 211px;
+    line-height: 12px;
+    color: #000000;
+  }
+
+  #numbers {
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .project, .years, .price {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+color: #000000;
+
+  }
+
+  .project2, .years2, .price2 {
+    font-size: 10px;
+    color: #1b1b1b;
+  }
+
+  .num {
+    margin-top: 1rem;
+
+  }
+
+  .num1 {
+    font-weight: 500;
+    font-size: 16px;
+    color: #000;
+    margin: 2px 0;
+  }
+
+  .iconsBox {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 1rem;
+    text-align: center;
+  }
+
+  .iconsBox div {
+    font-size: 10px;
+    color: #716966;
+  }
+
+  .iconsBox img {
+    max-width: 40%;
+    margin: 0;
+    
+  }
+
+  .details, .hide, .shortlist, .report {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #house h3 {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+  }
+
+  .hidden {
+    visibility: hidden;
+    height: 0;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    }   
+
+
+}
+
+
